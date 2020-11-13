@@ -1,1 +1,1 @@
-# MoneroAddressesCS
+# Monero Addresses Cheatsheet
