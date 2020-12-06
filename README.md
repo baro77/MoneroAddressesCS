@@ -11,5 +11,6 @@ A recap of Monero keys and addresses, their scopes and relations. For this infog
 - in "Diffie-Hellman" grey ballon, replaced word "nature" with "connection"
 - updated cheatsheet version, and -consequently- file name
 
-[20201113](https://github.com/baro77/MoneroAddressesCS/blob/main/MoneroAddressesCheatsheet20201113.pdf) - First issue    
+[20201113](https://github.com/baro77/MoneroAddressesCS/blob/main/MoneroAddressesCheatsheet20201113.pdf) - First issue
+  
 ![Monero PO BOX Notepad](featured2.png)
