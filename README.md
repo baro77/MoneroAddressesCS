@@ -4,7 +4,7 @@ A recap of Monero keys and addresses, their scopes and relations. For this infog
 
 ### Version History
 
-[20201206](https://github.com/baro77/MoneroAddressesCS/blob/main/MoneroAddressesCheatsheet20201206.pdf)
+[20201206](https://github.com/baro77/MoneroAddressesCS/blob/main/MoneroAddressesCheatsheet20201206.pdf) - TBD
 [20201113](https://github.com/baro77/MoneroAddressesCS/blob/main/MoneroAddressesCheatsheet20201113.pdf) - First issue
 
 
