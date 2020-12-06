@@ -5,8 +5,8 @@ A recap of Monero keys and addresses, their scopes and relations. For this infog
 ### Version History
 
 [20201206](https://github.com/baro77/MoneroAddressesCS/blob/main/MoneroAddressesCheatsheet20201206.pdf) - Changes:
-- fixed typos: Twisted -> twisted, technic -> technique
-- replaced misguiding reference to EdDSA with reference to EC points' cyclic nature 
+- fixed typos: Twisted -> twisted, technic -> technique (thanks to @UkoeHB)
+- replaced misguiding reference to EdDSA with reference to EC points' cyclic nature (thanks to @UkoeHB)
 - removed citation of EC order, not being able to detail about "l" and "cofactor"
 - in "Diffie-Hellman" grey ballon, replaced word "nature" with "connection"
 - updated cheatsheet version, and -consequently- file name
