@@ -13,4 +13,5 @@ A recap of Monero keys and addresses, their scopes and relations. For this infog
 
 [20201113](https://github.com/baro77/MoneroAddressesCS/blob/main/MoneroAddressesCheatsheet20201113.pdf) - First issue
   
+  
 ![Monero PO BOX Notepad](featured2.png)
