@@ -9,8 +9,8 @@ The cheatsheet has been proposed as part of Monero Documentation via [PR #1384 o
 ### Version History
 
 [20201206](https://github.com/baro77/MoneroAddressesCS/blob/main/MoneroAddressesCheatsheet20201206.pdf) - Changes:
-- fixed typos: Twisted -> twisted, technic -> technique (thanks to [@UkoeHB](https://github.com/UkoeHB))
-- replaced misguiding reference to EdDSA with reference to EC points' cyclic nature (thanks to [@UkoeHB](https://github.com/UkoeHB))
+- fixed typos: Twisted -> twisted, technic -> technique (thanks to [UkoeHB](https://github.com/monero-project/monero-site/pull/1348#issuecomment-738190246))
+- replaced misguiding reference to EdDSA with reference to EC points' cyclic nature (thanks to [UkoeHB](https://github.com/monero-project/monero-site/pull/1348#issuecomment-738190246))
 - removed citation of EC order, not being able to detail about "l" and "cofactor"
 - in "Diffie-Hellman" grey ballon, replaced word "nature" with "connection"
 - updated cheatsheet version, and -consequently- file name
