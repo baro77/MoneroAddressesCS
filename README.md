@@ -2,7 +2,7 @@
 
 A recap of Monero keys and addresses, their scopes and relations. For this infographic rationale, please check the [companion article hosted on Medium](https://medium.com/@baro77/4ce51df7daa5?source=friends_link&sk=ca0b7dc102333842816ef510f4ad4eb2).  
 
-The cheatsheet has been proposed as part of Monero Documentation via [PR #1384 on monero-site Github repository](https://github.com/monero-project/monero-site/pull/1348).  
+The cheatsheet has been published on the Resources/Library section of Monero official site ([https://www.getmonero.org/library/](https://www.getmonero.org/library/)) as well.  
 
 [![Monero PO BOX Notepad](featured2resized.png)](https://medium.com/@baro77/4ce51df7daa5?source=friends_link&sk=ca0b7dc102333842816ef510f4ad4eb2)
 
