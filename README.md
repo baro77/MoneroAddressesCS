@@ -4,7 +4,7 @@ A recap of Monero keys and addresses, their scopes and relations. For this infog
 
 The cheatsheet has been published on the [Resources/Library section of Monero official site](https://www.getmonero.org/library/) on January 2021, and since 6 months later this repository is also hosting [the document source (Word's .docx format)](https://github.com/baro77/MoneroAddressesCS/blob/main/MoneroAddressesCheatsheet20201206.docx): if you want to translate it, or use it in any derivative work please [contact me](https://github.com/baro77).
 
-A nice [Russian translation](https://github.com/baro77/MoneroAddressesCS/tree/main/translations/ru) is also available as both .PDF and .docx, thanks to [v1docq47](https://github.com/v1docq47).
+A nice [Russian translation](https://github.com/baro77/MoneroAddressesCS/tree/main/translations/ru) is available as both .PDF and .docx, thanks to [v1docq47](https://github.com/v1docq47).
 
 
 [![Monero PO BOX Notepad](featured2resized.png)](https://medium.com/@baro77/4ce51df7daa5?source=friends_link&sk=ca0b7dc102333842816ef510f4ad4eb2)
