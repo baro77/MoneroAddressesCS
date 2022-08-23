@@ -1,7 +1,7 @@
 # Monero Addresses Cheatsheet
 
 ```
-This cheatsheet is part of "The Salmon Series", available as a whole project @ https://www.bybaro.it/tss
+This cheatsheet is part of "The Salmon Series", check it out @ https://www.bybaro.it/tss
 ```
 
 A recap of Monero keys and addresses, their scopes and relations. For this infographic rationale, please check the [companion article hosted on Medium](https://medium.com/@baro77/4ce51df7daa5?source=friends_link&sk=ca0b7dc102333842816ef510f4ad4eb2).  
